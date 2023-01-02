@@ -1,0 +1,25 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "Aula dia 02",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "clear && node index.js",
+    "pratica2": "clear && node pratica2.js Brazil",
+    "pratica3": "clear && node pratica3.js B",
+    "pratica4":"clear && node pratica4.js LabenuIsland LBN",
+    "exercicio": "clear && node exercicio.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrodriguesg/node-package-json-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasrodriguesg/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/lucasrodriguesg/node-package-json-template#readme"
+}
